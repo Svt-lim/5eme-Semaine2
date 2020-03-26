@@ -37,13 +37,13 @@ Correction :
    <img src="https://github.com/Svt-lim/5eme-Semaine2/blob/master/20200326_121143.gif" alt="" />
 </details>
 
-##### Bilan :
+#### Bilan :
 
  Toute variation d’un paramètre physique ou chimique de l’environnement est un stimulus, qui peut être capté par un  organe des sens spécifique. Il existe 5 sens "classiques" chez l'humain. D'autres sens existent comme la proprioception ou la thermoception par exemple. 
 
 
 
-##### Un organe des sens non-humain : Les vibrisses du Chat.  
+#### Un organe des sens non-humain : Les vibrisses du Chat.  
 
 Ouvrez le [lien](https://youtu.be/mdqBbvYX3MU) pour voir comment les chats utilisent leurs vibrisses pour chasser leurs proies. 
 
